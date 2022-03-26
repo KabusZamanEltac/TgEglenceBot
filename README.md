@@ -41,7 +41,7 @@ async def _(client, message):
 ```
 
 # İletişim
-Şikayet, bağış v.b. için benim ile telegram'dan iletişime geç [@YoungSoftware](https://t.me/YoungSoftware)
+Şikayet, üçün v.b. üçün menim ile telegram'dan elaqeye geç [@ismiyev95](https://t.me/WerabliAnlar)
 
 
 # Credit
